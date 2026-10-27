@@ -6,8 +6,7 @@ AI Destekli Hukuk Asistanı: Kullanıcı sorularını analiz ederek mevzuat ve h
 Akıllı Avukat Öneri Sistemi: Yapay zeka, kullanıcının ihtiyacını analiz ederek ilgili uzmanlık alanına (Ceza, Aile, İş Hukuku vb.) sahip avukatları konuşma sırasında otomatik olarak önerir.
 Avukat Yönetim Paneli: Sisteme uzmanlık alanlarına göre yeni avukat profilleri eklenebilir ve yönetilebilir.
 
-Proje Önizlemesi:
-https://github.com/user-attachments/assets/ea282f0f-7ead-4551-a288-c4d63b92a5af
+Proje Önizlemesi:----
 
 
 **Teknolojiler ve Mimari**
