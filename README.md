@@ -1,3 +1,4 @@
+
 # AI Destekli Hukuk Danışmanı ve Avukat Eşleştirme Platformu
 Kullanıcıların hukuki konularda yapay zekadan anlık bilgi almasını sağlayan ve sorunun uzmanlık alanına göre platforma kayıtlı avukatları akıllı bir şekilde öneren web uygulaması.
 
@@ -6,7 +7,7 @@ AI Destekli Hukuk Asistanı: Kullanıcı sorularını analiz ederek mevzuat ve h
 Akıllı Avukat Öneri Sistemi: Yapay zeka, kullanıcının ihtiyacını analiz ederek ilgili uzmanlık alanına (Ceza, Aile, İş Hukuku vb.) sahip avukatları konuşma sırasında otomatik olarak önerir.
 Avukat Yönetim Paneli: Sisteme uzmanlık alanlarına göre yeni avukat profilleri eklenebilir ve yönetilebilir.
 
-Proje Önizlemesi:----
+Proje Önizlemesi: https://github.com/user-attachments/assets/57321557-899d-4a1b-ad67-54510c803d0a
 
 
 **Teknolojiler ve Mimari**
